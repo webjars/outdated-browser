@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>outdated-browser</artifactId>
-    <version>1.0.2</version>
+    <version>1.0.3-SNAPSHOT</version>
     <name>outdated-browser</name>
     <description>WebJar for outdated-browser</description>
     <url>http://webjars.org</url>
@@ -43,7 +43,7 @@
         <url>http://github.com/webjars/outdated-browser</url>
         <connection>scm:git:https://github.com/webjars/outdated-browser.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/outdated-browser.git</developerConnection>
-        <tag>outdated-browser-1.0.2</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <build>
